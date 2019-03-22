@@ -1,0 +1,42 @@
+{
+	"success": true,
+	"data": {
+		"topicList": [{
+			"id": 1,
+			"title": "社会热点",
+			"imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 2,
+			"title": "手绘",
+			"imgUrl": "//upload.jianshu.io/collections/images/21/20120316041115481.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}],
+		"articleList": [{
+			"id": 1,
+			"title": "因家里失火，海量“初音未来”藏品化成灰！网友：北京一套房没了",
+			"desc": "作为一名二次元喜好者，隔夜君相信大伙对于动漫相关的玩物---手办，海报，同人创作，动漫IP游戏等等都会萌生出强烈的渴求欲望，也一定曾幻想过能够拥..",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/5527509-d2550016753db7ca.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}, {
+			"id": 2,
+			"title": "一位高情商母亲提醒儿子：“真正值得娶回家的，只有这一种姑娘”",
+			"desc": "01. 男人选择了一个怎样女人作为自己终生的伴侣，就等于选择了余生过一种怎样的生活。 一位好妻子，就意味着“好日子”，每一位成功男人的背后必有一...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/15575888-52efa59fffaf597d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}, {
+			"id": 3,
+			"title": "如何过一天，就是如何过一生！【和波波羊一起学时间管理】",
+			"desc": "时间是这个世界上最宝贵地东西，每一分每一秒都不可再复得。管理学大师彼得.德鲁克曾说过：“时间是一个管理者最稀缺的资源”。既然这么稀缺，那如何管理...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/13896239-bb3473b3c0aad31b.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}, {
+			"id": 4,
+			"title": "中国”渐崩式婚姻“：这才是男人越来越冷淡的真相。",
+			"desc": "前几天看到： 讲的是结婚仅3年的程序猿，竟每晚宁愿沉迷车库，也不愿回家…… 这一切背后的真相到底是怎样的？ ...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/3160322-4032854a181d6290?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+		}],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "//upload.jianshu.io/admin_banners/web_images/4620/8ce28ed4656eaa9d606d92c60ba6a04e419cf39b.png?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+		}, {
+			"id": 2,
+			"imgUrl": "//upload.jianshu.io/admin_banners/web_images/4620/8ce28ed4656eaa9d606d92c60ba6a04e419cf39b.png?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+		}]
+	}
+}
